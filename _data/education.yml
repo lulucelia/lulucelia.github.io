@@ -1,9 +1,46 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  #name: Bournemouth University
+  dates: 2019
+  qualification: Deep learning Methods for Medical Applications (Special Issue)
+  #quote: >
+   # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Surgical Skill Assessment on JIGSAWS Using Attention Network (Under Review)  
+    **Zhang J**, Nie Y, Lyu Y. et al.  
+
+- layout: left
+  #name: Bournemouth University
+  dates: 2019
+  qualification: Computer Graphics International Conference (CGI)
+  #quote: >
+   # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Integrating Peridynamics with Material Point Method for Elastoplastic Material Modeling  
+    Lyu Y, **Zhang J,** Chang J, et al. [\[Link\]](https://link.springer.com/chapter/10.1007/978-3-030-22514-8_19)
+    [\[BibTex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:Lwd-kArSCKUJ:scholar.google.com/&output=citation&scisdr=CgVDLi3-EOPf4wcT6KA:AAGBfm0AAAAAXewW8KARcRIk_K1iCl9nlnlASwJ9rIQO&scisig=AAGBfm0AAAAAXewW8BzDvtEH3vbD9tnQi2EWTYbSG2ND&scisf=4&ct=citation&cd=-1&hl=zh-CN)  
+    <img src="/images/Honey.png" width="60%">
+
+- layout: left
+  #name: Bournemouth University
+  dates: 2018
+  qualification: ACM SIGGRAPH European Conference on Visual Media Production
+  #quote: >
+   # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Development of laparoscopic cholecystectomy simulator based on unity game engine  
+    **Zhang J**, Lyu Y, Wang Y, et al. [\[PDF\]](http://delivery.acm.org/10.1145/3280000/3278474/a4-zhang.pdf?ip=194.80.64.254&id=3278474&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2EADA9075A69F4291D%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575803561_7b3594cd9139e47170182694efae82a0)
+    [\[BibTex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:PP0GUxWWYt0J:scholar.google.com/&output=citation&scisdr=CgVDLi3-EOPf4wfZWmo:AAGBfm0AAAAAXezcQmoUFOB5s5QLYSK8L39ttvVKXboo&scisig=AAGBfm0AAAAAXezcQlRTBKJOx7QBnAspnpvE8iKQqZy2&scisf=4&ct=citation&cd=-1&hl=zh-CN)  
+    <img src="/images/1.gif" width="30%"><img src="/images/2.gif" width="30%">  
+    <img src="/images/3.gif" width="30%"><img src="/images/4.gif" width="30%">
+
+- layout: left
+  #name: Bournemouth University
+  dates: 2017
+  qualification: Deep learning Methods for Medical Applications (Special Issue)
+  #quote: >
+   # Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Virtual reality surgery simulation: A survey on patient specific solution  
+    **Zhang J**, Chang J, Yang X, et al. [\[Link\]](https://link.springer.com/chapter/10.1007/978-3-319-69487-0_16)
+    [\[BibTex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:cIsRAgq9r0YJ:scholar.google.com/&output=citation&scisdr=CgVDLi3-EOPf4wfavFU:AAGBfm0AAAAAXezfpFXRGNnOMo0MZ_6me8bdH5JYG84a&scisig=AAGBfm0AAAAAXezfpHgoh1RLHngStqAEPzkS2NXYG_CV&scisf=4&ct=citation&cd=-1&hl=zh-CN)

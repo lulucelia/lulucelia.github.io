@@ -3,52 +3,59 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Jinglu Zhang
+title: Ph.D. Candidate
+email: zhangj@bournemouth.ac.uk
+#phone: Your phone number (optional)
+#website: Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+#twitter_username: jekyllrb
+github_username:  lulucelia
+#dribbble_username: jekyll
+facebook_username: Jinglu Zhang
+#flickr_username: jekyll
+instagram_username: lulu_cecelia
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/lulu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a Ph.D. candidate (2017-present) at *National Centre for Computer Animation (NCCA)*, Bournemouth University. My research 
+  interests include Deep Learning in Medical Applications (surgical video content understanding), Computer Vision
+  and Virtual Reality Surgery Simulation
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  **09/2014 - 09/2015, University College London** *(Master of Science)*  
+  - **Major:** Web Science and Big Data Analytics  
+  - **Related Modules:** Information Retrieval and Data Mining, Distributed System and Security, Cloud Computing, Web Economics, Complex Network
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+  **09/2010 - 09/2014, Queen Mary University of London** *(Bachelor of Engineering)*  
+  **Beijing University of Posts and Telecommunications** *(Bachelor of Management)*  
+  - **Major:** E-commerce Engineering with Law (Grade: 2.1)  
+  - **Related Modules:** Software Engineering, Internet Database, Advanced Network Programming, Information System Management, Internet Application, Java Programming, C Programming
+
+
+#Projects Section
+#projects_title: Publications #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Projects & Publications #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  **Awards:** Fully funded PhD; Second-class scholarship (2013); National E-Business Competition (Silver Prize, Beijing)  
+  **Hobbies:**  
+  - Instruments: Gu Zheng (grade 9), flute (grade 4), piano (ABRSM grade 4 with distinction)  
+  - I love travelling alone, reading, watching opera and classical music concert, and I am a football fan!
 
 # Footer
 footer_show_references: true
